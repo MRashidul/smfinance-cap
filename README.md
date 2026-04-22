@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SM Finance — Client Appreciation Programme v2
 ### React + Vite · CAP 2026
 
@@ -28,3 +29,6 @@ src/pages/Login.jsx     — unified login page
 src/components/shared/AuthGuard.jsx — route protection
 
 Built for Selina Manir Finance Ltd · SM Finance · v2.0
+=======
+# smfinance-cap
+>>>>>>> ee27bbc32f7a4710e77c932eb24eba0280994a68
